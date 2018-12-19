@@ -1,5 +1,6 @@
+r/dailyprogrammer/
 # Challenge-367-Easy-Subfactorials---Another-Twist-on-Factorials
-Description:
+"Description:
 Most everyone who programs is familiar with the factorial - n! - of a number, the product of the series from n to 1. One interesting aspect of the factorial operation is that it's also the number of permutations of a set of n objects.
 
 Today we'll look at the subfactorial, defined as the derangement of a set of n objects, or a permutation of the elements of a set, such that no element appears in its original position. We denote it as !n.
@@ -39,4 +40,4 @@ Challenge Output
 
 !9 -> 133496
 
-!14 -> 32071101049
+!14 -> 32071101049"
